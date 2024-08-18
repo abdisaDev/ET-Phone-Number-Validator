@@ -1,0 +1,30 @@
+{
+  "name": "et-phone-number-validator",
+  "version": "1.2.6",
+  "description": "This package helps you to validate ethiopian phone number (safaricom and ethio telecom). Aug 13, 2024.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdisaDev/ET-Phone-Number-Validator.git"
+  },
+  "keywords": [
+    "\"et",
+    "phone",
+    "validator\"",
+    "\"phone",
+    "validator\"",
+    "\"ethiopia",
+    "phone",
+    "number",
+    "validator\""
+  ],
+  "author": "Abdisa Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdisaDev/ET-Phone-Number-Validator/issues"
+  },
+  "homepage": "https://github.com/abdisaDev/ET-Phone-Number-Validator#readme"
+}
